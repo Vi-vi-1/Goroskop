@@ -1,0 +1,14 @@
+C:\Users\hp\OneDrive\Документы\Знаки зодиака\Знаки зодиака\bin\Debug\Знаки зодиака.exe.config
+C:\Users\hp\OneDrive\Документы\Знаки зодиака\Знаки зодиака\bin\Debug\Знаки зодиака.exe
+C:\Users\hp\OneDrive\Документы\Знаки зодиака\Знаки зодиака\bin\Debug\Знаки зодиака.pdb
+C:\Users\hp\OneDrive\Документы\Знаки зодиака\Знаки зодиака\bin\Debug\ru-RU\Знаки зодиака.resources.dll
+C:\Users\hp\OneDrive\Документы\Знаки зодиака\Знаки зодиака\obj\Debug\Знаки зодиака.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Документы\Знаки зодиака\Знаки зодиака\obj\Debug\Знаки_зодиака.Form1.resources
+C:\Users\hp\OneDrive\Документы\Знаки зодиака\Знаки зодиака\obj\Debug\Знаки_зодиака.Properties.Resources.resources
+C:\Users\hp\OneDrive\Документы\Знаки зодиака\Знаки зодиака\obj\Debug\Знаки_зодиака.Form1.ru-RU.resources
+C:\Users\hp\OneDrive\Документы\Знаки зодиака\Знаки зодиака\obj\Debug\Знаки зодиака.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Документы\Знаки зодиака\Знаки зодиака\obj\Debug\Знаки зодиака.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Документы\Знаки зодиака\Знаки зодиака\obj\Debug\ru-RU\Знаки зодиака.resources.dll
+C:\Users\hp\OneDrive\Документы\Знаки зодиака\Знаки зодиака\obj\Debug\Знаки зодиака.exe
+C:\Users\hp\OneDrive\Документы\Знаки зодиака\Знаки зодиака\obj\Debug\Знаки зодиака.pdb
+C:\Users\hp\OneDrive\Документы\Знаки зодиака\Знаки зодиака\obj\Debug\Знаки_зодиака.Form2.resources
